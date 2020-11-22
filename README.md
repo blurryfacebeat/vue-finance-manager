@@ -1,5 +1,7 @@
 # vue-finance-manager
 
+https://finance-manager-vue.web.app/
+
 ## Project setup
 ```
 npm install
